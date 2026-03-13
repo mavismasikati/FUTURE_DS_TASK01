@@ -53,9 +53,9 @@ This analysis highlights **clear opportunities to increase profitability** throu
 ---
 
 
+## 🖼️ Dashboard Preview
+![Superstore Dashboard](sales%20performance%20dashboard.png)
 
-## 📊 Dashboard Preview
-![Sales Dashboard](sales-performance-dashboard.png)
 
 ---
 
